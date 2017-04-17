@@ -1,5 +1,5 @@
 # Summary
 
 * [ভূমিকা](README.md)
-* [First Chapter](chapter1.md)
+* [ডিস্ক ইমেজ ইন্সটল](chapter1.md)
 
