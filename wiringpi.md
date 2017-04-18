@@ -1,4 +1,4 @@
-# **রাস্পবেরি পাই wiringPi**
+# [রাস্পবেরি পাই wiringPi](/wiringpi.md)**রাস্পবেরি পাই wiringPi**
 
 ---
 
