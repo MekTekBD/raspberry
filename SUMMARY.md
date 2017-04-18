@@ -7,4 +7,5 @@
 * [hello world in C](hello-world-in-c.md)
 * [wiringPi LED Blink](led-blink-with-wiringpi.md)
 * [wiringPi Button Input](wiringpi-button-input.md)
+* [wiringPi Toggle](wiringpi-toggle.md)
 
