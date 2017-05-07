@@ -8,19 +8,16 @@
 
 **যা যা লাগবে -**
 
-1.  অবশ্যই একটা রাস্পবেরি পাই ।
+1. অবশ্যই একটা রাস্পবেরি পাই ।
 2. একটা ৮ জিবি অথবা ৮ জিবি এর বেশী ধারণ ক্ষমতা সম্পন্ন মেমোরি কার্ড ।
 3. একটা কার্ড রিডার , মেমোরি কার্ড এ ইমেজ বার্ন করার জন্য।
 4. একটা সচল কম্পিউটার , যেটা দিয়ে ডিস্ক ইমেজ বার্ন করবা ।
-5. রাস্পবেরি পাই এর জন্য একটা ৫ ভোল্ট এবং ২ এম্পিয়ার এর পাওয়ার সাপ্লায় ।
+5. একটা ৫ ভোল্ট এবং ২ এম্পিয়ার এর পাওয়ার সাপ্লায় ।
 
 আপাতত এগুলা থাকলেই চলবে ।
 
-
-
 **এখন নিচের ধাপ গুলা সতর্কতার সাথে সম্পন্ন করতে থাক -**
 
-  
 ১। প্রথমে রাস্পবেরি পাই এর সাইট \([http://www.raspberrypi.org/downloads/](https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.raspberrypi.org%2Fdownloads%2F&h=ATNEPgQVlsWdy9EW7WABxGDITE5QynpifwnCUB99Oj23MvHoq4LIubSfFQRLSBm1hpPRy1bvg2Zl2zlMyHLTV98dcb-IXh-sXKBeuBnhXTZe983r9KnCtMRgjhZ3fKY&enc=AZNdyjjjaf7Q7EHibNtq0tvMdjq9Q3G2smcqb25crAl60dF2kIlsGRiGZnQD8U3lKSD3JrNOhconm1jVa7NiYVJCwCVChOQ4F6JJ0fuRqvssNVc9UVceN-_RxhCSf1Zr_fIhAx7_DqX2E65Xvj-EqAs4yhgk9mun1ndgcyY1JYe-fjipElIMpcOueuOd_ptTZ5WPzFzYe1J-8qsbZjB9AwMR&s=1)\)থেকে রাস্পবিয়ান এর ডিস্ক ইমেজ টি নামাতে হবে ।
 
 ২ । zip ফাইল থেকে unzip করে একটা ফোল্ডার এ .img ফাইল টি রাখতে হবে ।
@@ -35,11 +32,7 @@
 
 ৭। কমপ্লিট হয়ে গেলে , মেমোরি কার্ড টি খুলে , রাস্পবেরি পাই এ প্রবেশ করাও , এবং রাস্পবেরি পাই পাওয়ার অন করে তোমার প্রথম রাস্পবেরি পাই টি চালু কর
 
-
-
 রাস্পবেরি পাই এর ক্ষেত্রে অবশ্যই মনে রাখবা , এর বাই ডিফল্ট **ইউজার আইডি pi **এবং **পাসওয়ার্ড raspberry**।
-
-
 
 ![](/assets/3.jpg)
 
