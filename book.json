@@ -1,5 +1,5 @@
 {
-    "plugins": ["disqus"],["meta"]
+    "plugins": ["disqus","meta-single"]
     "pluginsConfig": {
         "disqus": {
             "shortName": "MekTek"
