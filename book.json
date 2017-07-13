@@ -2,8 +2,8 @@
     "plugins": ["disqus","meta-single"],
     "pluginsConfig": {
         "disqus": {
-            "shortName": "MekTek"
-        },
+            "shortName": "MekTek",
+        }
         "meta-single": {
             "name": "google-site-verification",
             "content": "5kmT-Lgpwnxmu1T3EpKlebbHIfHHXPXgwIoAPpDBvu0"
