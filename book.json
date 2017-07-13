@@ -1,17 +1,17 @@
 {
-    "plugins": ["disqus","meta-single],
+    "plugins": ["disqus","meta-single"],
     "pluginsConfig": {
         "disqus": {
             "shortName": "MekTek"
         } 
         
-    }
-   "pluginsConfig": {
-      "meta-single": {
+        "meta-single": {
             "name": "google-site-verification",
             "content": "5kmT-Lgpwnxmu1T3EpKlebbHIfHHXPXgwIoAPpDBvu0"
         }
-   }
+        
+    }
+   
                 
 }
 {
